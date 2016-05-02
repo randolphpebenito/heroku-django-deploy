@@ -1,0 +1,8 @@
+*.sw[opqrst]
+*.vim
+*.pyc
+py/
+tmp/
+venv/
+miniature/db.sqlite3
+static_in_env/
